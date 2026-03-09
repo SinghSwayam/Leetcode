@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SinghSwayam/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/SinghSwayam/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/SinghSwayam/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/SinghSwayam/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SinghSwayam/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SinghSwayam/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/SinghSwayam/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/SinghSwayam/Leetcode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/SinghSwayam/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/SinghSwayam/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/SinghSwayam/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/SinghSwayam/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/SinghSwayam/Leetcode/tree/main/0049-group-anagrams/) | Medium |
