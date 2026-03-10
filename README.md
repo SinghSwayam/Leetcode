@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SinghSwayam/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SinghSwayam/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghSwayam/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0498-diagonal-traverse](https://github.com/SinghSwayam/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SinghSwayam/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/SinghSwayam/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SinghSwayam/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/SinghSwayam/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/SinghSwayam/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/SinghSwayam/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Dynamic Programming
