@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SinghSwayam/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghSwayam/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
+| [0204-count-primes](https://github.com/SinghSwayam/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0498-diagonal-traverse](https://github.com/SinghSwayam/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SinghSwayam/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/SinghSwayam/Leetcode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/SinghSwayam/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0204-count-primes](https://github.com/SinghSwayam/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 ## Recursion
@@ -188,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/SinghSwayam/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/SinghSwayam/Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
