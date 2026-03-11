@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0498-diagonal-traverse](https://github.com/SinghSwayam/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/SinghSwayam/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SinghSwayam/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/SinghSwayam/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/SinghSwayam/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/SinghSwayam/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SinghSwayam/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/SinghSwayam/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/SinghSwayam/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SinghSwayam/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/SinghSwayam/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/SinghSwayam/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
