@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SinghSwayam/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0204-count-primes](https://github.com/SinghSwayam/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/SinghSwayam/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0415-add-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 ## Recursion
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SinghSwayam/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SinghSwayam/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0273-integer-to-english-words](https://github.com/SinghSwayam/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/SinghSwayam/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0273-integer-to-english-words](https://github.com/SinghSwayam/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0344-reverse-string](https://github.com/SinghSwayam/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0415-add-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0415-add-strings/) | Easy |
