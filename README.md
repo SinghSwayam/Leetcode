@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/SinghSwayam/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SinghSwayam/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0498-diagonal-traverse](https://github.com/SinghSwayam/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SinghSwayam/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SinghSwayam/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/SinghSwayam/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SinghSwayam/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/SinghSwayam/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SinghSwayam/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
