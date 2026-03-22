@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SinghSwayam/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/SinghSwayam/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0204-count-primes](https://github.com/SinghSwayam/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/SinghSwayam/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/SinghSwayam/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0415-add-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0415-add-strings/) | Easy |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SinghSwayam/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SinghSwayam/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/SinghSwayam/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0273-integer-to-english-words](https://github.com/SinghSwayam/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0078-subsets](https://github.com/SinghSwayam/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0231-power-of-two](https://github.com/SinghSwayam/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
