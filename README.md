@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SinghSwayam/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/SinghSwayam/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0390-elimination-game](https://github.com/SinghSwayam/Leetcode/tree/main/0390-elimination-game/) | Medium |
 | [0415-add-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 ## Recursion
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SinghSwayam/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/SinghSwayam/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0273-integer-to-english-words](https://github.com/SinghSwayam/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0390-elimination-game](https://github.com/SinghSwayam/Leetcode/tree/main/0390-elimination-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
