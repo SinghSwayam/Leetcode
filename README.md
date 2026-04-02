@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SinghSwayam/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/SinghSwayam/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/SinghSwayam/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/SinghSwayam/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SinghSwayam/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/SinghSwayam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/SinghSwayam/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/SinghSwayam/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/SinghSwayam/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/SinghSwayam/Leetcode/tree/main/0078-subsets/) | Medium |
