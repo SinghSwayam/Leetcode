@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/SinghSwayam/Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/SinghSwayam/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/SinghSwayam/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SinghSwayam/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SinghSwayam/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## Binary Search
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/SinghSwayam/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0917-reverse-only-letters](https://github.com/SinghSwayam/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/SinghSwayam/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SinghSwayam/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SinghSwayam/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SinghSwayam/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SinghSwayam/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SinghSwayam/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## String Matching
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SinghSwayam/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/SinghSwayam/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
