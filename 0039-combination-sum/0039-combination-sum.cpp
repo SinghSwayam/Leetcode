@@ -6,11 +6,9 @@ public:
             return;
         }
 
-        if(target<0){
-            return;
-        }
-
         for(int i=start;i<candidates.size();i++){
+            if(candidates[i] > target) return;
+
             currAns.push_back(candidates[i]);
             solve(candidates,target-candidates[i],ans,currAns,i);
             currAns.pop_back();
@@ -19,6 +17,7 @@ public:
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        sort(candidates.begin(),candidates.end());
         vector<vector<int>> ans;
         vector<int> currAns;
 
