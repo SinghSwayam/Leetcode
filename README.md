@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SinghSwayam/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/SinghSwayam/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SinghSwayam/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/SinghSwayam/Leetcode/tree/main/0051-n-queens/) | Hard |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SinghSwayam/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/SinghSwayam/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/SinghSwayam/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/SinghSwayam/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SinghSwayam/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/SinghSwayam/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/SinghSwayam/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/SinghSwayam/Leetcode/tree/main/0078-subsets/) | Medium |
