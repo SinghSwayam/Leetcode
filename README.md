@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0498-diagonal-traverse](https://github.com/SinghSwayam/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SinghSwayam/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SinghSwayam/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SinghSwayam/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SinghSwayam/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Sorting
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SinghSwayam/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SinghSwayam/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/SinghSwayam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SinghSwayam/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SinghSwayam/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/SinghSwayam/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Memoization
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 <!---LeetCode Topics End-->
