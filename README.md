@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/SinghSwayam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/SinghSwayam/Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SinghSwayam/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Recursion
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SinghSwayam/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0390-elimination-game](https://github.com/SinghSwayam/Leetcode/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/SinghSwayam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/SinghSwayam/Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SinghSwayam/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/SinghSwayam/Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SinghSwayam/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
