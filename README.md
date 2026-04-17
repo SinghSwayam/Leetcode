@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SinghSwayam/Leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SinghSwayam/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SinghSwayam/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/SinghSwayam/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0273-integer-to-english-words](https://github.com/SinghSwayam/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0326-power-of-three](https://github.com/SinghSwayam/Leetcode/tree/main/0326-power-of-three/) | Easy |
