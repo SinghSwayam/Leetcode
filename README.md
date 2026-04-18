@@ -125,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/SinghSwayam/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/SinghSwayam/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SinghSwayam/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
