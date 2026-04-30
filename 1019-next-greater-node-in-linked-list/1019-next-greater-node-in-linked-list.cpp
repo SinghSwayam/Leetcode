@@ -11,26 +11,25 @@
 class Solution {
 public:
     vector<int> nextLargerNodes(ListNode* head) {
-        vector<int> arr;
+        vector<int> ll;
         while(head){
-            arr.push_back(head->val);
+            ll.push_back(head->val);
             head=head->next;
         }
 
-        int size = arr.size();
-        vector<int> ans(size);
         stack<int> st;
-        st.push(INT_MAX);
-        
-        for(int i=size-1;i>=0;i--){
-            int curr = arr[i];
-            while(st.top() <= curr){
+        int size = ll.size();
+        vector<int> ans(size,0);
+
+        for(int i=0;i<size;i++){
+
+            while(!st.empty() && ll[i] > ll[st.top()]){
+                ans[st.top()] = ll[i];
                 st.pop();
             }
-            ans[i] = st.top() == INT_MAX ? 0 : st.top();
-            st.push(curr);
-        }
+            st.push(i);
 
+        }
         return ans;
         
     }
