@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/SinghSwayam/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/SinghSwayam/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghSwayam/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/SinghSwayam/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SinghSwayam/Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/SinghSwayam/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SinghSwayam/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/SinghSwayam/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SinghSwayam/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SinghSwayam/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -422,4 +425,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SinghSwayam/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [1019-next-greater-node-in-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
