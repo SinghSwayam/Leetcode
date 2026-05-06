@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/SinghSwayam/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/SinghSwayam/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/SinghSwayam/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
+| [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Linked List
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SinghSwayam/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/SinghSwayam/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0498-diagonal-traverse](https://github.com/SinghSwayam/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
