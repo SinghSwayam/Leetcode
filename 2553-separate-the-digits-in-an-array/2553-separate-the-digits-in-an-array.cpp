@@ -2,22 +2,15 @@ class Solution {
 public:
     vector<int> separateDigits(vector<int>& nums) {
         vector<int> ans;
-        stack<int> st;
-        for(int num : nums){
-            if(num >= 10){
-                while(num > 0){
-                    int digit = num % 10;
-                    st.push(digit);
-                    num /= 10;
-                }
-                while(!st.empty()){
-                    ans.push_back(st.top());
-                    st.pop();
-                }
-            }else{
-                ans.push_back(num);
+
+        for (int num : nums) {
+            string s = to_string(num);
+
+            for (char ch : s) {
+                ans.push_back(ch - '0');
             }
         }
+
         return ans;
     }
 };
