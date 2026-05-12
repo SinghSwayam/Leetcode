@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/SinghSwayam/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1776-car-fleet-ii](https://github.com/SinghSwayam/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/SinghSwayam/Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0853-car-fleet](https://github.com/SinghSwayam/Leetcode/tree/main/0853-car-fleet/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SinghSwayam/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
