@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-    
     int diameter = 0;
     
     int height(TreeNode* root){
