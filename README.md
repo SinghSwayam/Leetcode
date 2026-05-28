@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0079-word-search](https://github.com/SinghSwayam/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0112-path-sum/) | Easy |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/SinghSwayam/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
