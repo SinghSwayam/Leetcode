@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SinghSwayam/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SinghSwayam/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SinghSwayam/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/SinghSwayam/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SinghSwayam/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghSwayam/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2540-minimum-common-value](https://github.com/SinghSwayam/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SinghSwayam/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/SinghSwayam/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SinghSwayam/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SinghSwayam/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/SinghSwayam/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SinghSwayam/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SinghSwayam/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SinghSwayam/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
