@@ -13,32 +13,30 @@ class Solution {
 public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
         if(!root) return {};
-
         vector<vector<int>> ans;
-        map<int, vector<int>> mp;
-        queue<pair<TreeNode*, int>> q;
+        queue<TreeNode*> q;
 
-        q.push({root,0});
+        q.push(root);
 
         while(!q.empty()){
-            pair<TreeNode*, int> temp = q.front();
-            q.pop();
+            int n = q.size();
+            vector<int> lvl;
 
-            TreeNode* frontnode = temp.first;
-            int lvl = temp.second;
+            for(int i=0;i<n;i++){
+                TreeNode* frontnode = q.front();
+                q.pop();
 
-            mp[lvl].push_back(frontnode->val);
+                lvl.push_back(frontnode->val);
 
-            if(frontnode->left)
-                q.push({frontnode->left,lvl - 1});
-            
-            if(frontnode->right)
-                q.push({frontnode->right,lvl - 1});
+                if(frontnode->left)
+                    q.push(frontnode->left);
+                if(frontnode->right)
+                    q.push(frontnode->right);
+            }
+            ans.push_back(lvl);
         }
 
-        for(auto i : mp){
-            ans.push_back(i.second);
-        }
+        reverse(ans.begin(),ans.end());
 
         return ans;
     }
