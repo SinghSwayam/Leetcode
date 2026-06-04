@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/SinghSwayam/Leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/SinghSwayam/Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/SinghSwayam/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SinghSwayam/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/SinghSwayam/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/SinghSwayam/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SinghSwayam/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/SinghSwayam/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SinghSwayam/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Bit Manipulation
@@ -615,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/SinghSwayam/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -626,5 +632,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
