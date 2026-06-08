@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SinghSwayam/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SinghSwayam/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SinghSwayam/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/SinghSwayam/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SinghSwayam/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/SinghSwayam/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SinghSwayam/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0498-diagonal-traverse](https://github.com/SinghSwayam/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SinghSwayam/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SinghSwayam/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/SinghSwayam/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SinghSwayam/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
