@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/SinghSwayam/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/SinghSwayam/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/SinghSwayam/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SinghSwayam/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/SinghSwayam/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/SinghSwayam/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
