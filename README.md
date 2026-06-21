@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/SinghSwayam/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SinghSwayam/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1776-car-fleet-ii](https://github.com/SinghSwayam/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/SinghSwayam/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/SinghSwayam/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/SinghSwayam/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/SinghSwayam/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/SinghSwayam/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SinghSwayam/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/SinghSwayam/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/SinghSwayam/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SinghSwayam/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SinghSwayam/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -710,4 +713,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/SinghSwayam/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
