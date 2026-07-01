@@ -1,48 +1,44 @@
 class Solution {
 public:
     string reorganizeString(string s) {
-        // greedy approach
-        vector<int> hash(26,0);
-
-        for(int i=0;i<s.size();i++){
-            hash[s[i] - 'a']++;
+        unordered_map<char, int> mp;
+        for(char ch : s){
+            mp[ch]++;
         }
 
-        // find the most frequent character
-        char most_freqent_char;
-        int max_freq=INT_MIN;
+        priority_queue<pair<int, char>> maxheap;
+        for(auto it : mp){
+            maxheap.push({it.second, it.first});
+        }
 
-        for(int i=0;i<26;i++){
-            if(hash[i] > max_freq){
-                max_freq = hash[i];
-                most_freqent_char = i + 'a';
+        string ans = "";
+        while(maxheap.size() > 1){
+            auto [firstFreq, firstChar] = maxheap.top();
+            maxheap.pop();
+            auto [secFreq, secChar] = maxheap.top();
+            maxheap.pop();
+            
+            ans += firstChar;
+            ans += secChar;
+
+            if(--firstFreq){
+                maxheap.push({firstFreq, firstChar});
+            }
+
+            if(--secFreq){
+                maxheap.push({secFreq, secChar});
             }
         }
 
-        // placing most frequent char
-        int index = 0;
-        while(max_freq>0 && index<s.size()){
-            s[index] = most_freqent_char;
-            max_freq--;
-            index+=2;
-        }
-
-        if(max_freq != 0){
-            return "";
-        }
-
-        hash[most_freqent_char-'a'] = 0;
-
-        // place remaining characters
-        for(int i=0;i<26;i++){
-            while(hash[i]>0){
-                index = index >= s.size() ? 1 : index;
-                s[index] = i + 'a';
-                hash[i]--;
-                index+=2;
+        if(maxheap.size() == 1){
+            auto [freq, ch] = maxheap.top();
+            maxheap.pop();
+            if(freq > 1){
+                return "";
             }
+            ans += ch;
         }
 
-        return s;
+        return ans;
     }
 };
