@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SinghSwayam/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/SinghSwayam/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/SinghSwayam/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SinghSwayam/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/SinghSwayam/Leetcode/tree/main/0853-car-fleet/) | Medium |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SinghSwayam/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/SinghSwayam/Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/SinghSwayam/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/SinghSwayam/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SinghSwayam/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0696-count-binary-substrings](https://github.com/SinghSwayam/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/SinghSwayam/Leetcode/tree/main/0791-custom-sort-string/) | Medium |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/SinghSwayam/Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0853-car-fleet](https://github.com/SinghSwayam/Leetcode/tree/main/0853-car-fleet/) | Medium |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -628,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/SinghSwayam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1405-longest-happy-string](https://github.com/SinghSwayam/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
@@ -640,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SinghSwayam/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/SinghSwayam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SinghSwayam/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -797,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SinghSwayam/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/SinghSwayam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
