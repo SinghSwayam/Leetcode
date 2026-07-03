@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghSwayam/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/SinghSwayam/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/SinghSwayam/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/SinghSwayam/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SinghSwayam/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/SinghSwayam/Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0853-car-fleet](https://github.com/SinghSwayam/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/SinghSwayam/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SinghSwayam/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1405-longest-happy-string](https://github.com/SinghSwayam/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -637,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1405-longest-happy-string](https://github.com/SinghSwayam/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1776-car-fleet-ii](https://github.com/SinghSwayam/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
@@ -651,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SinghSwayam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SinghSwayam/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
