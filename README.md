@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/SinghSwayam/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/SinghSwayam/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/SinghSwayam/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/SinghSwayam/Leetcode/tree/main/0443-string-compression/) | Medium |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/SinghSwayam/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/SinghSwayam/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/SinghSwayam/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/SinghSwayam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SinghSwayam/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/SinghSwayam/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/SinghSwayam/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/SinghSwayam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SinghSwayam/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SinghSwayam/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/SinghSwayam/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/SinghSwayam/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Monotonic Stack
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SinghSwayam/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/SinghSwayam/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
