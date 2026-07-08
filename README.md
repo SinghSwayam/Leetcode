@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/SinghSwayam/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/SinghSwayam/Leetcode/tree/master/0268-missing-number) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/SinghSwayam/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/SinghSwayam/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0273-integer-to-english-words](https://github.com/SinghSwayam/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0344-reverse-string](https://github.com/SinghSwayam/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Heap (Priority Queue)
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SinghSwayam/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SinghSwayam/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/SinghSwayam/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/SinghSwayam/Leetcode/tree/main/0901-online-stock-span/) | Medium |
