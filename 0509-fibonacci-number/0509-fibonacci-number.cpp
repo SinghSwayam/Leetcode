@@ -1,22 +1,22 @@
 class Solution {
 public:
-    // memoization
-    int solveByMemo(int n, vector<int>& dp){
-        if(n == 0 || n == 1){
-            return n;
+    // Tabulation method
+    int solveByTabulation(int n){
+        if(n == 0 || n == 1) return n;
+
+        vector<int> dp(n+1, -1);
+        dp[0] = 0;
+        dp[1] = 1;
+
+        for(int i=2; i<=n; i++){
+            dp[i] = dp[i-1] + dp[i-2];
         }
 
-        if(dp[n] != -1){
-            return dp[n];
-        }
-        
-        dp[n] = solveByMemo(n-1, dp) + solveByMemo(n-2,dp);
         return dp[n];
     }
 
     int fib(int n) {
-        vector<int> dp(n+1, -1);
-        int ans = solveByMemo(n, dp);
+        int ans = solveByTabulation(n);
         return ans;
     }
 };
