@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SinghSwayam/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SinghSwayam/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0494-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0498-diagonal-traverse](https://github.com/SinghSwayam/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SinghSwayam/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SinghSwayam/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0322-coin-change](https://github.com/SinghSwayam/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/SinghSwayam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SinghSwayam/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/SinghSwayam/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0494-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
