@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SinghSwayam/Leetcode/tree/main/0415-add-strings/) | Easy |
 | [0443-string-compression](https://github.com/SinghSwayam/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/SinghSwayam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/SinghSwayam/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SinghSwayam/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SinghSwayam/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SinghSwayam/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/SinghSwayam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/SinghSwayam/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SinghSwayam/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SinghSwayam/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
