@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SinghSwayam/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0045-jump-game-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/SinghSwayam/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SinghSwayam/Leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SinghSwayam/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/SinghSwayam/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/SinghSwayam/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0045-jump-game-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/SinghSwayam/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/SinghSwayam/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/SinghSwayam/Leetcode/tree/main/0062-unique-paths/) | Medium |
