@@ -64,11 +64,78 @@ public:
         return dp[i][j];
     }
 
+    int solveTabulation(string& word1, string& word2){
+        int n = word1.size();
+        int m = word2.size();
+
+        vector<vector<int>> dp(n+1, vector<int>(m+1, -1));
+
+        for(int i=0;i<=n; i++){
+            dp[i][m] = n-i;
+        }
+
+        for(int j = 0; j <= m; j++) {
+            dp[n][j] = m - j;
+        }
+
+        for(int i=n-1; i>=0; i--){
+            for(int j=m-1; j>=0; j--){
+                if(word1[i] == word2[j]){
+                    dp[i][j] = dp[i+1][j+1];
+                }else{
+                    int op1 = 1 + dp[i][j+1];
+                    int op2 = 1 + dp[i+1][j];
+                    int op3 = 1 + dp[i+1][j+1];
+
+                    dp[i][j] = min({op1, op2, op3});
+                }
+            }
+        }
+        return dp[0][0];
+    }
+
+    int spaceOptimized(string& word1, string& word2){
+        int n = word1.length();
+        int m = word2.length();
+
+        vector<int> next(n + 1, 0);
+        vector<int> curr(n + 1, 0);
+
+        for(int i=0; i<=n; i++){
+            next[i] = n-i;
+        }
+
+        for(int j=m-1; j>=0; j--){
+            
+            // Base case: when word1 is exhausted (i = n), required ops = m - j
+            curr[n] = m - j;
+            
+            for(int i=n-1; i>=0; i--){
+                if(word1[i] == word2[j]){
+                    curr[i] = next[i+1];
+                }else{
+                    int replace = 1 + next[i+1];
+                    int insert = 1 + next[i];
+                    int remove = 1 + curr[i+1];
+                    curr[i] = min({replace, insert, remove});
+                }
+            }
+            next = curr;
+        }
+        return next[0];
+    }
+   
+
     int minDistance(string word1, string word2) {
         // int ans = solveRecursion(word1, word2, 0, 0);
 
-        vector<vector<int>> dp(word1.size()+1, vector<int>(word2.size()+1, -1));
-        int ans = solveMemoization(word1, word2, 0, 0, dp);
+        // vector<vector<int>> dp(word1.size()+1, vector<int>(word2.size()+1, -1));
+        // int ans = solveMemoization(word1, word2, 0, 0, dp);
+
+        // int ans = solveTabulation(word1, word2);
+
+        int ans = spaceOptimized(word1, word2);
+
         return ans;
     }
 };
