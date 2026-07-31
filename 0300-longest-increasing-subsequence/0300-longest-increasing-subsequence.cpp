@@ -86,8 +86,8 @@ public:
     }
 
     int lengthOfLIS(vector<int>& nums) {
-        int curr = 0;
-        int prev = -1;
+        // int curr = 0;
+        // int prev = -1;
         // int ans = solveRecursion(nums, curr, prev);
 
         // int n = nums.size();
