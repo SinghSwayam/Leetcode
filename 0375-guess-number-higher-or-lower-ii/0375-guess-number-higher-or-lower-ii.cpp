@@ -28,24 +28,27 @@ public:
     }
 
     int solveTabulation(int n){
-        vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
-        for(int s=n; s>=0; s--){
-            for(int e=0; e<=n; e++){
+        vector<vector<int>> dp(n+2, vector<int>(n+2, 0));
+        for(int s=n; s>=1; s--){
+            for(int e=s+1; e<=n; e++){
                 int mini = INT_MAX;
                 for(int i=s; i<=e; i++){
                     int curr = i + max(dp[s][i-1], dp[i+1][e]);
-                    dp[s][e] = min(mini, curr);
+                    mini = min(mini, curr);
                 }
+                dp[s][e] = mini;
             }
         }
-        return dp[0][n];
+        return dp[1][n];
     }
 
     int getMoneyAmount(int n) {
-        // int ans = solveRecursion(0, n);
+        // int ans = solveRecursion(1, n);
 
-        vector<vector<int>> dp(n+1, vector<int>(n+1, -1)); 
-        int ans = solveMemoization(0, n, dp);
+        // vector<vector<int>> dp(n+1, vector<int>(n+1, -1)); 
+        // int ans = solveMemoization(1, n, dp);
+
+        int ans = solveTabulation(n);
         return ans;
     }
 };
