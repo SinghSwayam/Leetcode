@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/SinghSwayam/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/SinghSwayam/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/SinghSwayam/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SinghSwayam/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/SinghSwayam/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SinghSwayam/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/SinghSwayam/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SinghSwayam/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Binary Search
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/SinghSwayam/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SinghSwayam/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/SinghSwayam/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
