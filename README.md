@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SinghSwayam/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/SinghSwayam/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/SinghSwayam/Leetcode/tree/main/0089-gray-code/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/SinghSwayam/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/SinghSwayam/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/SinghSwayam/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/SinghSwayam/Leetcode/tree/main/0204-count-primes/) | Medium |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SinghSwayam/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0100-same-tree/) | Easy |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SinghSwayam/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0100-same-tree/) | Easy |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SinghSwayam/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/SinghSwayam/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/SinghSwayam/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0096-unique-binary-search-trees](https://github.com/SinghSwayam/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/SinghSwayam/Leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0120-triangle](https://github.com/SinghSwayam/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SinghSwayam/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -875,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SinghSwayam/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
