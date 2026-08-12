@@ -54,12 +54,36 @@ public:
         return dp[n][target];
     }
 
+    int solveTabSpaceOptimized(int n, int k, int target){
+        vector<int> curr(target+1, 0);
+        vector<int> next(target+1, 0);
+
+        curr[0] = 1;
+
+        for(int n_idx = 1; n_idx<=n; n_idx++){
+            for(int t_idx = 1; t_idx <= target; t_idx++){
+
+                int ans = 0;
+                for(int i=1; i<=k && i <= t_idx ;i++){
+                    int temp = curr[t_idx-i]% mod;
+                    ans = (ans + temp) % mod;
+                }
+                next[t_idx] = ans;
+
+            }
+            curr = next;
+        }
+        return curr[target];
+    }
+
     int numRollsToTarget(int n, int k, int target) {
         // return solveRec(n, k, target);
 
         // vector<vector<int>> dp(n+1, vector<int>(target+1, -1));
         // return solveMemo(n, k, target, dp);
 
-        return solveTab(n, k, target);
+        // return solveTab(
+
+        return solveTabSpaceOptimized(n, k, target);
     }
 };
