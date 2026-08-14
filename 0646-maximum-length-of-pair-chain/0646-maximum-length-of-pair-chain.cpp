@@ -19,9 +19,9 @@ public:
 
         int inc = 0;
         if(prev == -1 || pairs[prev][1] < pairs[curr][0]){
-            inc = 1 + solveRec(pairs, curr, curr+1);
+            inc = 1 + solveMemo(pairs, curr, curr+1, dp);
         }
-        int exc = solveRec(pairs, prev, curr+1);
+        int exc = solveMemo(pairs, prev, curr+1, dp);
 
         return dp[prev+1][curr] = max(inc, exc);
     }
@@ -44,15 +44,40 @@ public:
         return dp[0][0];
     }
 
+    static bool cmp(vector<int>& a, vector<int>& b){
+        return a[1] < b[1];
+    }
+
+    int solveGreedy(vector<vector<int>>& pairs){
+        sort(pairs.begin(), pairs.end(), cmp);
+
+        int count = 0;
+        int prevEnd = INT_MIN;
+
+        for (auto& p : pairs) {
+            if (prevEnd < p[0]) {
+                count++;
+                prevEnd = p[1];
+            }
+        }
+
+        return count;
+    }
+
     int findLongestChain(vector<vector<int>>& pairs) {
         int n = pairs.size();
         if(n == 1) return 1;
-        sort(pairs.begin(), pairs.end());
 
+        // sort(pairs.begin(), pairs.end());
         // return solveRec(pairs, -1, 0);
 
+        // sort(pairs.begin(), pairs.end());
         // vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
         // return solveMemo(pairs, -1, 0, dp);
-        return solveTab(pairs);
+
+        // sort(pairs.begin(), pairs.end());
+        // return solveTab(pairs);
+
+        return solveGreedy(pairs);
     }
 };
