@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/SinghSwayam/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SinghSwayam/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/SinghSwayam/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/SinghSwayam/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SinghSwayam/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/SinghSwayam/Leetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SinghSwayam/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/SinghSwayam/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/SinghSwayam/Leetcode/tree/main/0791-custom-sort-string/) | Medium |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/SinghSwayam/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/SinghSwayam/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SinghSwayam/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SinghSwayam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/SinghSwayam/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/SinghSwayam/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SinghSwayam/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SinghSwayam/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/SinghSwayam/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -955,4 +959,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/SinghSwayam/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
