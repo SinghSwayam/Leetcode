@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/SinghSwayam/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/SinghSwayam/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SinghSwayam/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/SinghSwayam/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SinghSwayam/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SinghSwayam/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SinghSwayam/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SinghSwayam/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
