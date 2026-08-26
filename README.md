@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SinghSwayam/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SinghSwayam/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SinghSwayam/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SinghSwayam/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghSwayam/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SinghSwayam/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
