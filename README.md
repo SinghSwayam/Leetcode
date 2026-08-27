@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SinghSwayam/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/SinghSwayam/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/SinghSwayam/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/SinghSwayam/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SinghSwayam/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/SinghSwayam/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/SinghSwayam/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/SinghSwayam/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/SinghSwayam/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/SinghSwayam/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/SinghSwayam/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/SinghSwayam/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
