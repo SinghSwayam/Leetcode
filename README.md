@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/SinghSwayam/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/SinghSwayam/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/SinghSwayam/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SinghSwayam/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/SinghSwayam/Leetcode/tree/main/0079-word-search/) | Medium |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SinghSwayam/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SinghSwayam/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/SinghSwayam/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/SinghSwayam/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/SinghSwayam/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/SinghSwayam/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/SinghSwayam/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
