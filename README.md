@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SinghSwayam/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SinghSwayam/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/SinghSwayam/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SinghSwayam/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SinghSwayam/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/SinghSwayam/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SinghSwayam/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/SinghSwayam/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SinghSwayam/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SinghSwayam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/SinghSwayam/Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SinghSwayam/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/SinghSwayam/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/SinghSwayam/Leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SinghSwayam/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/SinghSwayam/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SinghSwayam/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
