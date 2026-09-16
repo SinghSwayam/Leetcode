@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SinghSwayam/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SinghSwayam/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/SinghSwayam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SinghSwayam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SinghSwayam/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SinghSwayam/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/SinghSwayam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SinghSwayam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/SinghSwayam/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SinghSwayam/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SinghSwayam/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SinghSwayam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SinghSwayam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -1065,8 +1068,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SinghSwayam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SinghSwayam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SinghSwayam/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/SinghSwayam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/SinghSwayam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
