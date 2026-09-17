@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SinghSwayam/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SinghSwayam/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghSwayam/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SinghSwayam/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SinghSwayam/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SinghSwayam/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/SinghSwayam/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SinghSwayam/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghSwayam/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2540-minimum-common-value](https://github.com/SinghSwayam/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/SinghSwayam/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/SinghSwayam/Leetcode/tree/main/1691-maximum-height-by-stacking-cuboids/) | Hard |
@@ -844,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SinghSwayam/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SinghSwayam/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghSwayam/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SinghSwayam/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
