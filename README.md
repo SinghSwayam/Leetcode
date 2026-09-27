@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/SinghSwayam/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SinghSwayam/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghSwayam/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2540-minimum-common-value](https://github.com/SinghSwayam/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SinghSwayam/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SinghSwayam/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SinghSwayam/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SinghSwayam/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
@@ -821,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/SinghSwayam/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/SinghSwayam/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1776-car-fleet-ii](https://github.com/SinghSwayam/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SinghSwayam/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -991,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Search Tree
@@ -1038,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SinghSwayam/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SinghSwayam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -1122,4 +1129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1514-path-with-maximum-probability](https://github.com/SinghSwayam/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
