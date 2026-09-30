@@ -6,22 +6,30 @@ public:
             adj[f[0]].push_back({f[1], f[2]}); 
         }
 
-        vector<int> dist(n, INT_MAX);
+        queue<pair<int, pair<int,int>>> q;
+        q.push({0, {src, 0}});
+        // steps, node, distance
+        vector<int> dist(n, 1e9);
         dist[src] = 0;
-
-        for (int stops = 0; stops <= k; stops++) {
-            vector<int> temp = dist;
-
-            for (int u = 0; u < n; u++) {
-                if (dist[u] == INT_MAX) continue;
-                
-                for (auto [v, price] : adj[u]) { 
-                    temp[v] = min(temp[v], dist[u] + price); 
+        
+        while(!q.empty()){
+            auto it = q.front();
+            q.pop();
+            
+            int stops = it.first;
+            auto [node, cost] = it.second;
+            
+            if(stops > k) continue;
+            
+            for(auto [ngbrNode, ngbrDist] : adj[node]){
+                if(cost + ngbrDist < dist[ngbrNode]){
+                    dist[ngbrNode] = cost + ngbrDist;
+                    q.push({stops+1, {ngbrNode, dist[ngbrNode]}});
                 }
             }
-
-            dist = temp;
         }
-        return dist[dst] == INT_MAX ? -1 : dist[dst];
+        
+        if(dist[dst] == 1e9) return -1;
+        return dist[dst];
     }
 };
