@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/SinghSwayam/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/SinghSwayam/Leetcode/tree/main/0791-custom-sort-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/SinghSwayam/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0917-reverse-only-letters](https://github.com/SinghSwayam/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/SinghSwayam/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/SinghSwayam/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/SinghSwayam/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0853-car-fleet](https://github.com/SinghSwayam/Leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0856-score-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/SinghSwayam/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/SinghSwayam/Leetcode/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -1163,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
