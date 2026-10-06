@@ -1,34 +1,57 @@
-class Solution {
-public:
-    void dfs(int node, vector<vector<int>>& adjList, vector<bool>& visited){
-        visited[node] = true;
-        for(auto ngbr : adjList[node]){
-            if(!visited[ngbr]){
-                dfs(ngbr, adjList, visited);
-            }
+class DisjointSet{
+public: 
+    vector<int> size, parent;
+    DisjointSet(int n){
+        size.resize(n+1, 1);
+        parent.resize(n+1);
+        for(int i=0; i<n; i++){
+            parent[i] = i;
         }
     }
 
+    int findUltParent(int node){
+        if(node == parent[node])
+            return node;
+        
+        return parent[node] = findUltParent(parent[node]);
+    }
+
+    void unionBySize(int u, int v){
+        int ulp_u = findUltParent(u);
+        int ulp_v = findUltParent(v);
+
+        if(ulp_u == ulp_v) return;
+
+        if(size[ulp_u] < size[ulp_v]){
+            parent[ulp_u] = ulp_v;
+            size[ulp_v] += size[ulp_u];
+        }else{
+            parent[ulp_v] = ulp_u;
+            size[ulp_u] += size[ulp_v];
+        }
+    }
+};
+
+class Solution {
+public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int v = isConnected.size();
-        vector<vector<int>> adjList(v);
-        for(int i=0; i<v; i++){
-            for(int j=0; j<v; j++){
-                if(i != j && isConnected[i][j] == 1){
-                    adjList[i].push_back(j);
-                    adjList[j].push_back(i);
+        int n = isConnected.size();
+        DisjointSet ds(n);
+
+        for(int i=0; i<n; i++){
+            for(int j=0; j<n; j++){
+                if(isConnected[i][j] == 1){
+                    ds.unionBySize(i, j);
                 }
             }
         }
 
-        vector<bool> visited(v, false);
-        int count = 0;
-        for(int i=0; i<v; i++){
-            if(!visited[i]){
-                count++;
-                dfs(i, adjList, visited);
+        int cnt = 0;
+        for(int i=0; i<n; i++){
+            if(ds.parent[i] == i){
+                cnt++;
             }
         }
-        return count;
+        return cnt;
     }
 };
