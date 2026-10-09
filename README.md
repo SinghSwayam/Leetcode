@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SinghSwayam/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1405-longest-happy-string](https://github.com/SinghSwayam/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SinghSwayam/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SinghSwayam/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SinghSwayam/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SinghSwayam/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/SinghSwayam/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SinghSwayam/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1776-car-fleet-ii](https://github.com/SinghSwayam/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SinghSwayam/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SinghSwayam/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1405-longest-happy-string](https://github.com/SinghSwayam/Leetcode/tree/main/1405-longest-happy-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SinghSwayam/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/SinghSwayam/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghSwayam/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -1185,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SinghSwayam/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SinghSwayam/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
