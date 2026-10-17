@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SinghSwayam/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SinghSwayam/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SinghSwayam/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/SinghSwayam/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/SinghSwayam/Leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SinghSwayam/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SinghSwayam/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/SinghSwayam/Leetcode/tree/main/0221-maximal-square/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/SinghSwayam/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/SinghSwayam/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/SinghSwayam/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/SinghSwayam/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SinghSwayam/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SinghSwayam/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/SinghSwayam/Leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/SinghSwayam/Leetcode/tree/main/0397-integer-replacement/) | Medium |
@@ -941,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SinghSwayam/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0397-integer-replacement](https://github.com/SinghSwayam/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/SinghSwayam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
@@ -1025,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/SinghSwayam/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/SinghSwayam/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/SinghSwayam/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0542-01-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/SinghSwayam/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -1108,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SinghSwayam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/SinghSwayam/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/SinghSwayam/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/SinghSwayam/Leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -1175,12 +1182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SinghSwayam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0802-find-eventual-safe-states](https://github.com/SinghSwayam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SinghSwayam/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SinghSwayam/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
