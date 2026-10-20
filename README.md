@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/SinghSwayam/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/SinghSwayam/Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0784-letter-case-permutation](https://github.com/SinghSwayam/Leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0791-custom-sort-string](https://github.com/SinghSwayam/Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/SinghSwayam/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/SinghSwayam/Leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/SinghSwayam/Leetcode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [0784-letter-case-permutation](https://github.com/SinghSwayam/Leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SinghSwayam/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0494-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/SinghSwayam/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0784-letter-case-permutation](https://github.com/SinghSwayam/Leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
