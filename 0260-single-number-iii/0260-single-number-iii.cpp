@@ -13,12 +13,12 @@ public:
         // }
         // return ans;
 
-        int xorr = 0;
+        long long xorr = 0;
         for(int num : nums){
             xorr = xorr ^ num;
         }
 
-        int rightmost = static_cast<unsigned int>(xorr) & -static_cast<unsigned int>(xorr);
+        int rightmost = xorr & -xorr;
         int b1 = 0;
         int b2 = 0;
 
