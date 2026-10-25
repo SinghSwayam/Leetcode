@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/SinghSwayam/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SinghSwayam/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/SinghSwayam/Leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0860-lemonade-change](https://github.com/SinghSwayam/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/SinghSwayam/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/SinghSwayam/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/SinghSwayam/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SinghSwayam/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/SinghSwayam/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0860-lemonade-change](https://github.com/SinghSwayam/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SinghSwayam/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/SinghSwayam/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
