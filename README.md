@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SinghSwayam/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1776-car-fleet-ii](https://github.com/SinghSwayam/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/SinghSwayam/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/SinghSwayam/Leetcode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1840-maximum-building-height](https://github.com/SinghSwayam/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghSwayam/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/SinghSwayam/Leetcode/tree/main/1691-maximum-height-by-stacking-cuboids/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/SinghSwayam/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/SinghSwayam/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1834-single-threaded-cpu](https://github.com/SinghSwayam/Leetcode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1840-maximum-building-height](https://github.com/SinghSwayam/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghSwayam/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SinghSwayam/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/SinghSwayam/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1776-car-fleet-ii](https://github.com/SinghSwayam/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
+| [1834-single-threaded-cpu](https://github.com/SinghSwayam/Leetcode/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SinghSwayam/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SinghSwayam/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
