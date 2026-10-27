@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/SinghSwayam/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
+| [1306-jump-game-iii](https://github.com/SinghSwayam/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/SinghSwayam/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SinghSwayam/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/SinghSwayam/Leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [1306-jump-game-iii](https://github.com/SinghSwayam/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SinghSwayam/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -1077,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SinghSwayam/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1306-jump-game-iii](https://github.com/SinghSwayam/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SinghSwayam/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/SinghSwayam/Leetcode/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
