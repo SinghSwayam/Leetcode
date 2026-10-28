@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/SinghSwayam/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/SinghSwayam/Leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1306-jump-game-iii](https://github.com/SinghSwayam/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/SinghSwayam/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/SinghSwayam/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SinghSwayam/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SinghSwayam/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/SinghSwayam/Leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/SinghSwayam/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/SinghSwayam/Leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SinghSwayam/Leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/SinghSwayam/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/SinghSwayam/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/SinghSwayam/Leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SinghSwayam/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SinghSwayam/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
