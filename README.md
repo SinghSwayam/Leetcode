@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/SinghSwayam/Leetcode/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SinghSwayam/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghSwayam/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/SinghSwayam/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SinghSwayam/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SinghSwayam/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghSwayam/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/SinghSwayam/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SinghSwayam/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SinghSwayam/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/SinghSwayam/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SinghSwayam/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghSwayam/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/SinghSwayam/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/SinghSwayam/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -1034,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/SinghSwayam/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SinghSwayam/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/SinghSwayam/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SinghSwayam/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/SinghSwayam/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1776-car-fleet-ii](https://github.com/SinghSwayam/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 ## Data Stream
