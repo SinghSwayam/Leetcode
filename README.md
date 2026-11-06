@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/SinghSwayam/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0322-coin-change](https://github.com/SinghSwayam/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0330-patching-array](https://github.com/SinghSwayam/Leetcode/tree/main/0330-patching-array/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/SinghSwayam/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/SinghSwayam/Leetcode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/SinghSwayam/Leetcode/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/SinghSwayam/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/SinghSwayam/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0330-patching-array](https://github.com/SinghSwayam/Leetcode/tree/main/0330-patching-array/) | Hard |
 | [0397-integer-replacement](https://github.com/SinghSwayam/Leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/SinghSwayam/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/SinghSwayam/Leetcode/tree/main/0455-assign-cookies/) | Easy |
