@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SinghSwayam/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SinghSwayam/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/SinghSwayam/Leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SinghSwayam/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SinghSwayam/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SinghSwayam/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1776-car-fleet-ii](https://github.com/SinghSwayam/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1834-single-threaded-cpu](https://github.com/SinghSwayam/Leetcode/tree/main/1834-single-threaded-cpu/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/SinghSwayam/Leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SinghSwayam/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/SinghSwayam/Leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SinghSwayam/Leetcode/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
