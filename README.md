@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/SinghSwayam/Leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/SinghSwayam/Leetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/SinghSwayam/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/SinghSwayam/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/SinghSwayam/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/SinghSwayam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SinghSwayam/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SinghSwayam/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/SinghSwayam/Leetcode/tree/main/1568-minimum-number-of-days-to-disconnect-island/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1861-rotating-the-box](https://github.com/SinghSwayam/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/SinghSwayam/Leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/SinghSwayam/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/SinghSwayam/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SinghSwayam/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -953,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/SinghSwayam/Leetcode/tree/main/1054-distant-barcodes/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/SinghSwayam/Leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SinghSwayam/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/SinghSwayam/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1655-distribute-repeating-integers](https://github.com/SinghSwayam/Leetcode/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SinghSwayam/Leetcode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SinghSwayam/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1119,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SinghSwayam/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SinghSwayam/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/SinghSwayam/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SinghSwayam/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -1176,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/SinghSwayam/Leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SinghSwayam/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SinghSwayam/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/SinghSwayam/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SinghSwayam/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/SinghSwayam/Leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SinghSwayam/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
