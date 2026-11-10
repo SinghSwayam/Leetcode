@@ -30,10 +30,28 @@ public:
         return dp[i] = ans;
     }
 
+    int solveTab(int n, vector<int>& costs){
+        vector<int> dp(n+1, 0);
+
+        for(int i=n-1; i>=0; i--){
+            int ans = INT_MAX;
+            for(int j=i+1; j<= min(n, i+3); j++){
+                int jcost = costs[j-1] + (j-i) * (j-i);
+
+                ans = min(ans, jcost + dp[j]);
+            }
+            dp[i] = ans;
+        }
+
+        return dp[0];
+    }
+
     int climbStairs(int n, vector<int>& costs) {
         // return solveRec(0, n, costs);
         
-        vector<int> dp(n+1, -1);
-        return solveMemo(0, n, costs, dp);
+        // vector<int> dp(n+1, -1);
+        // return solveMemo(0, n, costs, dp);
+
+        return solveTab(n, costs);
     }
 };
