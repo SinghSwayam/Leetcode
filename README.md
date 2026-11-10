@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/SinghSwayam/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/SinghSwayam/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SinghSwayam/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SinghSwayam/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/SinghSwayam/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SinghSwayam/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/SinghSwayam/Leetcode/tree/main/3660-jump-game-ix/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SinghSwayam/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SinghSwayam/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
