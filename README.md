@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SinghSwayam/Leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2540-minimum-common-value](https://github.com/SinghSwayam/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/SinghSwayam/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SinghSwayam/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/SinghSwayam/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SinghSwayam/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SinghSwayam/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SinghSwayam/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/SinghSwayam/Leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SinghSwayam/Leetcode/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SinghSwayam/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SinghSwayam/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/SinghSwayam/Leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SinghSwayam/Leetcode/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SinghSwayam/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/SinghSwayam/Leetcode/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SinghSwayam/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/SinghSwayam/Leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SinghSwayam/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SinghSwayam/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
