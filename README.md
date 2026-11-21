@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/SinghSwayam/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/SinghSwayam/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0273-integer-to-english-words](https://github.com/SinghSwayam/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/SinghSwayam/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/SinghSwayam/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0344-reverse-string](https://github.com/SinghSwayam/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/SinghSwayam/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/SinghSwayam/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/SinghSwayam/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/SinghSwayam/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/SinghSwayam/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/SinghSwayam/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/SinghSwayam/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -1085,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/SinghSwayam/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SinghSwayam/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/SinghSwayam/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SinghSwayam/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/SinghSwayam/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SinghSwayam/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -1149,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SinghSwayam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SinghSwayam/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/SinghSwayam/Leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/SinghSwayam/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/SinghSwayam/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
