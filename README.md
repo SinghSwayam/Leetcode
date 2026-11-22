@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SinghSwayam/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SinghSwayam/Leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SinghSwayam/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SinghSwayam/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/SinghSwayam/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SinghSwayam/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SinghSwayam/Leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
