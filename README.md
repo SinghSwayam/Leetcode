@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SinghSwayam/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0386-lexicographical-numbers](https://github.com/SinghSwayam/Leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/SinghSwayam/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/SinghSwayam/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SinghSwayam/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/SinghSwayam/Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SinghSwayam/Leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0386-lexicographical-numbers](https://github.com/SinghSwayam/Leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/SinghSwayam/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SinghSwayam/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Heap (Priority Queue)
